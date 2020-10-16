@@ -1,7 +1,0 @@
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\bin\Debug\Lab 1 task all.exe.config
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\bin\Debug\Lab 1 task all.exe
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\bin\Debug\Lab 1 task all.pdb
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\obj\Debug\Lab 1 task all.csprojAssemblyReference.cache
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\obj\Debug\Lab 1 task all.csproj.CoreCompileInputs.cache
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\obj\Debug\Lab 1 task all.exe
-C:\Users\asus\source\repos\Lab 1 task all\Lab 1 task all\obj\Debug\Lab 1 task all.pdb

@@ -4,18 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_1_Problem_11
+namespace ConsoleApp2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            for (int i=0; i<=100; i++)
+            int x =1,l=5;
+            for (int j = 0; j < 5; j++)
             {
-                if (i%2==0)
+                for (int i = x; i <= l; i++)
                 {
-                    Console.WriteLine(i);
+                    Console.Write(i);
+
+
+
+
                 }
+                Console.WriteLine();
+                x++;
+                l++;
             }
         }
     }
