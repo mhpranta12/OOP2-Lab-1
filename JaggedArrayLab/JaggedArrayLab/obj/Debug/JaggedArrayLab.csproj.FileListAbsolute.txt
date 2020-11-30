@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\obj\Debug\JaggedArrayLab.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\obj\Debug\JaggedArrayLab.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\bin\Debug\JaggedArrayLab.exe.config
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\bin\Debug\JaggedArrayLab.exe
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\bin\Debug\JaggedArrayLab.pdb
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\obj\Debug\JaggedArrayLab.exe
+C:\Users\asus\source\repos\JaggedArrayLab\JaggedArrayLab\obj\Debug\JaggedArrayLab.pdb

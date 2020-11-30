@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\LabTaskFT1.exe.config
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\LabTaskFT1.exe
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\bin\Debug\LabTaskFT1.pdb
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\LabTaskFT1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\LabTaskFT1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\LabTaskFT1.exe
+C:\Users\asus\source\repos\LabTaskFT1\LabTaskFT1\obj\Debug\LabTaskFT1.pdb
